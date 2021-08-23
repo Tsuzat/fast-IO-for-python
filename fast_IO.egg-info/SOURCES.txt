@@ -1,0 +1,6 @@
+setup.py
+fast_IO/__init__.py
+fast_IO.egg-info/PKG-INFO
+fast_IO.egg-info/SOURCES.txt
+fast_IO.egg-info/dependency_links.txt
+fast_IO.egg-info/top_level.txt
