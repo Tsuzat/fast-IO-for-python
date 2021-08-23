@@ -2,7 +2,9 @@
 **INSTALLATION**
 
 use 
->pip3 install fast-IO==0.0.1
+```
+pip3 install fast-IO==0.0.1
+```
 
 **USAGE**
 
