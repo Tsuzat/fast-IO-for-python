@@ -4,4 +4,4 @@
 use 
 `pip install fast-IO==0.0.1`
 
-<i>Use for Competitive programming</i>
+<i>Use it for Competitive programming</i>
