@@ -5,6 +5,7 @@ use
 ```
 pip3 install fast-IO==0.0.1
 ```
+or [visit here.](https://pypi.org/project/fast-IO/0.0.1/)
 
 **USAGE**
 
